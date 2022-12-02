@@ -7,5 +7,5 @@ By default, there is no option to search by username or by ranking on the leader
 1) See how many players played the challenge
 2) View the results of any custom range of 200 users on the leaderboard
 3) Search for any user on the leaderboard
-4) Download all of the results as a .json file.
+4) Download all of the results as a .json file.<br/><br/>
 Better Leaderboard started as a userscript that I hosted on greasyfork. Then, I published it and the Chrome Web Store. You can preview it and download it [here](https://chrome.google.com/webstore/detail/geoguessr-better-leaderbo/jfipnkcdgkdndjndmkkcbmnlminnlfbn)
